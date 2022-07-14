@@ -1,1 +1,3 @@
-# scouting-app
+# Skyhawk
+
+A FRC Robotics Scouting Web App
